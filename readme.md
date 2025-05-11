@@ -22,3 +22,5 @@ Opciones:
                                                      [booleano] [defecto: false]
   -h, --hasta    Hasta que numero se va a multiplicar     [número] [defecto: 10]
 ```
+
+Ejemplo: node app -n 10 -l -h 100
